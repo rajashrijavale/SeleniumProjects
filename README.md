@@ -1,2 +1,3 @@
 # SeleniumProjects
-repository forcRajashri Work
+repository for Rajashri Work
+Readme file is updated
