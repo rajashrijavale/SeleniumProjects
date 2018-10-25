@@ -1,2 +1,2 @@
 # SeleniumProjects
-repository forcRajashri Work
+repository for Rajashri Work
